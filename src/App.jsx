@@ -159,7 +159,7 @@ function App() {
         <p className="text-center">
           Made by{" "}
           <a
-            href="https://github.com/settings/profile"
+            href="https://github.com/anss2110"
             className="no-underline"
             target="_blank"
             rel="noopener noreferrer"
